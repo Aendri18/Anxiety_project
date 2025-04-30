@@ -8,7 +8,8 @@ import json
 import uuid
 
 # API URL - Update with your FastAPI URL
-API_URL = "http://10.178.42.156:8000"
+API_URL = "https://anxiety-project-2j9z.onrender.com"
+
 
 # Set page configuration
 st.set_page_config(
