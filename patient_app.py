@@ -8,7 +8,7 @@ import json
 import uuid
 
 # API URL - Update with your FastAPI URL
-API_URL = "https://anxiety-project-2j9z.onrender.com"
+API_URL = "http://10.178.42.156:8000"
 
 
 # Set page configuration
