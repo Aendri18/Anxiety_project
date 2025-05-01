@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 # API URL - Update with your FastAPI URL
-API_URL = "http://localhost:8000"
+API_URL = "https://anxiety-project-2j9z.onrender.com"
 
 # Set page configuration
 st.set_page_config(
